@@ -1,0 +1,9 @@
+{
+	"name": "dfazureprangya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a777ea08-a8e7-433e-935d-66b1689b0433",
+		"tenantId": "fb927308-8a55-468b-b6bf-d04e8cd64ca1"
+	}
+}
