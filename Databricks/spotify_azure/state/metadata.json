@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "config": {
+    "bundle": {
+      "name": "spotify_azure",
+      "target": "prod",
+      "mode": "production",
+      "git": {
+        "bundle_root_path": "."
+      }
+    },
+    "workspace": {
+      "file_path": "/Workspace/Prod/.bundle/spotify_azure/prod/files"
+    },
+    "resources": {},
+    "presets": {
+      "source_linked_deployment": false
+    }
+  },
+  "extra": {
+    "git_folder_path": "/Workspace/Users/prangya.pkaran_gmail.com#ext#@prangyapkarangmail.onmicrosoft.com/spotify_azure"
+  }
+}
