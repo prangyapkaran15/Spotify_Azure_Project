@@ -51,8 +51,8 @@ The project follows a modern cloud data engineering architecture:
 
 Spotify_Azure_Project/
 │
-├── data_factory/          # Azure Data Factory pipelines
-├── databricks_notebooks/  # PySpark transformation notebooks
+├── pipeline/              # Azure Data Factory pipelines
+├── Databricks/spotify_azure/files/scr/  # PySpark transformation notebooks
 ├── sample_data/           # Source data
 
 
