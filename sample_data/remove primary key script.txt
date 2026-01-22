@@ -1,0 +1,6 @@
+select *
+from sys.key_constraints 
+where type = 'PK'AND parent_object_id = object_id('DimUser'); ---PK__DimUser__CBA1B257BAB91056
+
+Alter table [dbo].[DimUser]
+drop constraint PK__DimUser__CBA1B257BAB91056
